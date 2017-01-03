@@ -24,4 +24,4 @@ In 'lib/layer.py'
 import sys  
 sys.path.insert(0, 'CAFFE_PATH/python')
 
-or you can rename this caffe to 'caffe-fast-rcnn'
+Or you can rename this caffe to 'caffe-fast-rcnn'
